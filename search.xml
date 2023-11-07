@@ -1,241 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>时间管理方法介绍</title>
-    <url>/2023/11/07/04.%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E6%96%B9%E6%B3%95%E4%BB%8B%E7%BB%8D/</url>
-    <content><![CDATA[<h2 id="方法"><a href="#方法" class="headerlink" title="方法"></a>方法</h2><h3 id="GTD："><a href="#GTD：" class="headerlink" title="GTD："></a>GTD：</h3><ol>
-<li>收集：<ul>
-<li>什么事情都可以放进你的收集箱里，只要遇到该做的事情就记录上去，记录工具不要超过五个。</li>
-</ul>
-</li>
-<li>整理：<ul>
-<li>两分钟内、</li>
-<li>等待事项、</li>
-<li>特定日程、</li>
-<li>单步骤事项、</li>
-<li>多步骤事项、</li>
-<li>某一天事项、</li>
-<li>参考资料 。</li>
-</ul>
-</li>
-<li>组织：<ul>
-<li>管理分类整理出来的东西，能办的办了。</li>
-</ul>
-</li>
-<li>检讨与回顾：<ul>
-<li>每天工作结束前回顾一次，每周检讨自己一次，gtd有没有妥善执行。</li>
-</ul>
-</li>
-<li>执行：<ul>
-<li>执行你gtd里设定好的东西；</li>
-<li>. 执行你gtd里没有，但实际你需要做的事情；</li>
-<li>整理你下一步要执行的东西，也就是重复上面四个步骤</li>
-</ul>
-</li>
-</ol>
-<h3 id="柳比歇夫时间统计法"><a href="#柳比歇夫时间统计法" class="headerlink" title="柳比歇夫时间统计法"></a>柳比歇夫时间统计法</h3><ul>
-<li>记录数据（自己在什么时间花了多少时间去做什么事情）</li>
-<li>统计分析（统计自己在某个时间花费的时间，做小结，日周月年为单位）</li>
-<li>计划决策（年度总结或月复盘，未来计划）</li>
-</ul>
-<h3 id="三只青蛙"><a href="#三只青蛙" class="headerlink" title="三只青蛙"></a>三只青蛙</h3><blockquote>
-<p>找出你一天、一周、一个月、一年、一生中最重要的三件事，他们就是你必须吃掉的“三只青蛙”。利用帕累托定律，每天划出20%的时间，集中精力，专门对付这三只青蛙。</p>
-</blockquote>
-<ul>
-<li><strong>明确你的“三只大青蛙”</strong></li>
-<li><strong>先吃掉“最大、最丑的那只青蛙”</strong></li>
-<li><strong>每天保护自己的“青蛙时间”</strong></li>
-</ul>
-<h3 id="番茄工作法-d4f711"><a href="#番茄工作法-d4f711" class="headerlink" title="番茄工作法 ^d4f711"></a>番茄工作法 ^d4f711</h3><ul>
-<li>番茄工作法有五个步骤：<ol>
-<li>决定需要先完成的任务。</li>
-<li>设定番茄工作法定时器至 n 分钟（通常为25分钟）。</li>
-<li>持续工作直至定时器提示，记下一个番茄。</li>
-<li>短暂休息3-5分钟。</li>
-<li>每四个番茄，休息15-30分。</li>
-</ol>
-</li>
-</ul>
-<h3 id="四象限"><a href="#四象限" class="headerlink" title="四象限"></a>四象限</h3><p><img src="/%E5%9B%BE%E7%89%87/img_6.png" alt="img.png"></p>
-<h1 id="补充"><a href="#补充" class="headerlink" title="补充"></a>补充</h1><ul>
-<li>关键在于执行</li>
-</ul>
-]]></content>
-      <categories>
-        <category>效率</category>
-      </categories>
-      <tags>
-        <tag>时间管理</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>uTools——一款好用的效率软件</title>
-    <url>/2023/11/07/05-uTools%E2%80%94%E2%80%94%E4%B8%80%E6%AC%BE%E5%A5%BD%E7%94%A8%E7%9A%84%E6%95%88%E7%8E%87%E8%BD%AF%E4%BB%B6/</url>
-    <content><![CDATA[<h2 id="登录"><a href="#登录" class="headerlink" title="登录"></a>登录</h2><ul>
-<li>可选择登录设置头像，昵称</li>
-<li>在登陆后可以购买vip以实现多台设备uTools插件的同步</li>
-<li>可不登录，在一台电脑内正常使用</li>
-</ul>
-<h2 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h2><ul>
-<li><strong>快捷键</strong>：<ul>
-<li>alt+space：召唤uTools</li>
-<li>ctrl+D：分离窗口快捷键</li>
-<li>超级面板：长按右键</li>
-<li>召唤翻译界面：双击ctrl</li>
-</ul>
-</li>
-<li><strong>召唤应用</strong>：直接输入应用名称</li>
-<li><strong>启动系统级别的命令</strong>：<ol>
-<li>卸载软件：直接输入卸载</li>
-<li>windows cmd：直接输入打开</li>
-<li>windows power shell：直接输入打开</li>
-</ol>
-</li>
-<li><strong>快速搜索文件</strong>：输入find，再输入文件名</li>
-<li><strong>备忘快贴</strong>：<ol>
-<li>直接输入建立备忘</li>
-<li>搜索备忘进行查找</li>
-</ol>
-</li>
-<li><strong>翻译单词以及外文的段落</strong>：<ol>
-<li>方法一：针对选中的语段，单词在超级面板中翻译。左击鼠标键拉取选中，在长按右键即可。但每天有次数限制</li>
-<li>方法二：在方法一的操作下，再超级面版中再点翻译即可。无使用次数限制。</li>
-<li>方法三：双击ctrl，召唤翻译界面</li>
-</ol>
-</li>
-<li><strong>ocr 识别</strong>：<br>使用超级面版，选中截图并自动识别提取</li>
-<li><strong>网页快开功能</strong>：<ol>
-<li>输入网页快开设置，在里面了解快捷键，或者自定义</li>
-<li>输入应用名称，再在该应用中搜索，如：百度，哔哩哔哩，google</li>
-</ol>
-</li>
-<li><strong>插件市场</strong>：根据自己的需求使用</li>
-</ul>
-<h2 id="学习网址"><a href="#学习网址" class="headerlink" title="学习网址"></a><a href="https://www.bilibili.com/video/BV1cS4y1r73p/?spm_id_from=333.999.0.0&vd_source=c54e1b21828079b2c8108a17e375150b">学习网址</a></h2><h2 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h2><p><img src="/%E5%9B%BE%E7%89%87/img_07.png" alt="img.png"></p>
-]]></content>
-      <categories>
-        <category>效率</category>
-      </categories>
-      <tags>
-        <tag>软件</tag>
-        <tag>效率</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>关于obsidian使用图床</title>
-    <url>/2023/11/08/02.%E5%85%B3%E4%BA%8Eobsidian%E4%BD%BF%E7%94%A8%E5%9B%BE%E5%BA%8A/</url>
-    <content><![CDATA[<h2 id="创建步骤"><a href="#创建步骤" class="headerlink" title="创建步骤"></a>创建步骤</h2><ul>
-<li>注册腾讯云</li>
-<li>利用对象存储（cos功能）创立一个存储桶</li>
-<li>配置Picgo软件</li>
-<li>在obsidian中安装插件 Image auto upload Plugin</li>
-<li>具体步骤参见： <a href="https://www.bilibili.com/video/BV1pB4y1n7gM/?spm_id_from=333.999.0.0&vd_source=c54e1b21828079b2c8108a17e375150b">【 Obsidian绝配！】为你的Ob搭建专属图床，保姆级教程！再也不用担心图片管理了！</a></li>
-</ul>
-<h2 id="使用步骤"><a href="#使用步骤" class="headerlink" title="使用步骤"></a>使用步骤</h2><ul>
-<li>方法一：用windows 快捷键截屏（win+shift+s），截完之后直接 CTRL+V 粘贴图片即可上传</li>
-<li>方法二：将文件夹中存放的图片移到obsidian之中即可完成上传</li>
-</ul>
-<h2 id="结果"><a href="#结果" class="headerlink" title="结果"></a>结果</h2><ul>
-<li>图片会以链接的方式呈现在obsidian之中</li>
-<li>图片保存在腾讯云的存储桶文件夹sandox的pic之中</li>
-</ul>
-]]></content>
-      <categories>
-        <category>知识管理</category>
-      </categories>
-      <tags>
-        <tag>obsidian</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>职场狼人杀</title>
-    <url>/2023/11/06/03.%E8%81%8C%E5%9C%BA%E7%8B%BC%E4%BA%BA%E6%9D%80/</url>
-    <content><![CDATA[<h1 id="简历呈现"><a href="#简历呈现" class="headerlink" title="简历呈现"></a>简历呈现</h1><ul>
-<li>突出能力：写自己参与的特别的项目<ul>
-<li>流程化：显得专业</li>
-<li>精确化：真实</li>
-<li>例子<br><img src="/%E5%9B%BE%E7%89%87/img_5.png" alt="img.png"></li>
-</ul>
-</li>
-<li>简历越精彩，面试越正常</li>
-</ul>
-<h1 id="群面"><a href="#群面" class="headerlink" title="群面"></a>群面</h1><ul>
-<li>自我介绍：对精彩的部分挖坑，设下坑给面试官，守株待兔</li>
-<li>部门职能，招募要求：<ul>
-<li>你对XX（学生会）怎么看待的：</li>
-<li>传达三个点：<ul>
-<li>了解部门</li>
-<li>我愿意去做</li>
-<li>我有准备，很靠谱</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><strong>忌讳</strong>：<ul>
-<li>太过直接</li>
-<li>回答不知道</li>
-</ul>
-</li>
-</ul>
-<h1 id="无领导小组"><a href="#无领导小组" class="headerlink" title="无领导小组"></a>无领导小组</h1><h2 id="角色介绍"><a href="#角色介绍" class="headerlink" title="角色介绍"></a>角色介绍</h2><ul>
-<li>领导者：分配工作，管理(切记不要私自打断对方)</li>
-<li>时间管理者：每个组员的时间安排，汇报时间安排</li>
-<li>记录者：收集，归纳，整理观点。关键信息，整理框架，清晰</li>
-<li><strong>破冰者：第一个发言。</strong></li>
-<li>点子王：观点新颖，每个角色都可以担任</li>
-<li>汇报者：<ul>
-<li>表达清晰，分点逻辑</li>
-<li>兼顾观点</li>
-<li>控制时间</li>
-</ul>
-</li>
-</ul>
-<h2 id="身份确定"><a href="#身份确定" class="headerlink" title="身份确定"></a>身份确定</h2><ul>
-<li>点子王：尽可能提前去了解面试的方向：<ul>
-<li>有关该部门，公司的往年的资料：年报，公众号，官网，相关事件。用来举例子以及做好考试面试体型方向准备</li>
-<li>尽可能头脑风暴：提前思考好框架进行下一步的思考</li>
-</ul>
-</li>
-<li>破冰者：尽量早一点发言</li>
-</ul>
-<h2 id="回答流程："><a href="#回答流程：" class="headerlink" title="回答流程："></a>回答流程：</h2><ul>
-<li>分析回答的背景</li>
-<li>作出回答的选择</li>
-<li>论证答案</li>
-<li>补充说明其他的选项</li>
-</ul>
-<h2 id="Tips"><a href="#Tips" class="headerlink" title="Tips"></a>Tips</h2><ul>
-<li>不要贬低别人的观点</li>
-<li>提倡眼神交流，点头</li>
-<li>严格禁止抖腿，撩头发，转笔等</li>
-<li>在论证过程中举出面试相关的例子，提前做好准备</li>
-<li>逻辑，分点</li>
-</ul>
-]]></content>
-      <categories>
-        <category>人际攻略</category>
-      </categories>
-      <tags>
-        <tag>面试</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>常用等价无穷小以及证明</title>
-    <url>/2023/11/07/06-%E5%B8%B8%E7%94%A8%E7%AD%89%E4%BB%B7%E6%97%A0%E7%A9%B7%E5%B0%8F%E4%BB%A5%E5%8F%8A%E8%AF%81%E6%98%8E/</url>
-    <content><![CDATA[<h1 id="常用等价无穷小"><a href="#常用等价无穷小" class="headerlink" title="常用等价无穷小"></a>常用等价无穷小</h1><p><img src="/img.png" alt="img.png"></p>
-<h1 id="证明过程（不涉及超纲知识）"><a href="#证明过程（不涉及超纲知识）" class="headerlink" title="证明过程（不涉及超纲知识）"></a>证明过程（不涉及超纲知识）</h1><h2 id=""><a href="#" class="headerlink" title=""></a><img src="/img_1.png" alt="img_1.png"></h2><h2 id="-1"><a href="#-1" class="headerlink" title=""></a><img src="/img_2.png" alt="img_2.png"></h2><h2 id="-2"><a href="#-2" class="headerlink" title=""></a><img src="/img_3.png" alt="img_3.png"></h2><ul>
-<li>补充：红星常用</li>
-</ul>
-]]></content>
-      <categories>
-        <category>大学数学</category>
-      </categories>
-      <tags>
-        <tag>高数</tag>
-        <tag>二级结论</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>关于GPT的基本技巧</title>
     <url>/2023/11/07/01.GPT%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/</url>
     <content><![CDATA[<h1 id="GPT教程"><a href="#GPT教程" class="headerlink" title="GPT教程"></a><a href="https://k5ms77k0o1.feishu.cn/wiki/wikcnJyI9wsyjyBc8xiDgv0cY8b">GPT教程</a></h1><h2 id="使用前准备"><a href="#使用前准备" class="headerlink" title="使用前准备"></a>使用前准备</h2><ul>
@@ -460,6 +225,241 @@
       </categories>
       <tags>
         <tag>GPT</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>职场狼人杀</title>
+    <url>/2023/11/06/03.%E8%81%8C%E5%9C%BA%E7%8B%BC%E4%BA%BA%E6%9D%80/</url>
+    <content><![CDATA[<h1 id="简历呈现"><a href="#简历呈现" class="headerlink" title="简历呈现"></a>简历呈现</h1><ul>
+<li>突出能力：写自己参与的特别的项目<ul>
+<li>流程化：显得专业</li>
+<li>精确化：真实</li>
+<li>例子<br><img src="/%E5%9B%BE%E7%89%87/img_5.png" alt="img.png"></li>
+</ul>
+</li>
+<li>简历越精彩，面试越正常</li>
+</ul>
+<h1 id="群面"><a href="#群面" class="headerlink" title="群面"></a>群面</h1><ul>
+<li>自我介绍：对精彩的部分挖坑，设下坑给面试官，守株待兔</li>
+<li>部门职能，招募要求：<ul>
+<li>你对XX（学生会）怎么看待的：</li>
+<li>传达三个点：<ul>
+<li>了解部门</li>
+<li>我愿意去做</li>
+<li>我有准备，很靠谱</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>忌讳</strong>：<ul>
+<li>太过直接</li>
+<li>回答不知道</li>
+</ul>
+</li>
+</ul>
+<h1 id="无领导小组"><a href="#无领导小组" class="headerlink" title="无领导小组"></a>无领导小组</h1><h2 id="角色介绍"><a href="#角色介绍" class="headerlink" title="角色介绍"></a>角色介绍</h2><ul>
+<li>领导者：分配工作，管理(切记不要私自打断对方)</li>
+<li>时间管理者：每个组员的时间安排，汇报时间安排</li>
+<li>记录者：收集，归纳，整理观点。关键信息，整理框架，清晰</li>
+<li><strong>破冰者：第一个发言。</strong></li>
+<li>点子王：观点新颖，每个角色都可以担任</li>
+<li>汇报者：<ul>
+<li>表达清晰，分点逻辑</li>
+<li>兼顾观点</li>
+<li>控制时间</li>
+</ul>
+</li>
+</ul>
+<h2 id="身份确定"><a href="#身份确定" class="headerlink" title="身份确定"></a>身份确定</h2><ul>
+<li>点子王：尽可能提前去了解面试的方向：<ul>
+<li>有关该部门，公司的往年的资料：年报，公众号，官网，相关事件。用来举例子以及做好考试面试体型方向准备</li>
+<li>尽可能头脑风暴：提前思考好框架进行下一步的思考</li>
+</ul>
+</li>
+<li>破冰者：尽量早一点发言</li>
+</ul>
+<h2 id="回答流程："><a href="#回答流程：" class="headerlink" title="回答流程："></a>回答流程：</h2><ul>
+<li>分析回答的背景</li>
+<li>作出回答的选择</li>
+<li>论证答案</li>
+<li>补充说明其他的选项</li>
+</ul>
+<h2 id="Tips"><a href="#Tips" class="headerlink" title="Tips"></a>Tips</h2><ul>
+<li>不要贬低别人的观点</li>
+<li>提倡眼神交流，点头</li>
+<li>严格禁止抖腿，撩头发，转笔等</li>
+<li>在论证过程中举出面试相关的例子，提前做好准备</li>
+<li>逻辑，分点</li>
+</ul>
+]]></content>
+      <categories>
+        <category>人际攻略</category>
+      </categories>
+      <tags>
+        <tag>面试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>时间管理方法介绍</title>
+    <url>/2023/11/07/04.%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E6%96%B9%E6%B3%95%E4%BB%8B%E7%BB%8D/</url>
+    <content><![CDATA[<h2 id="方法"><a href="#方法" class="headerlink" title="方法"></a>方法</h2><h3 id="GTD："><a href="#GTD：" class="headerlink" title="GTD："></a>GTD：</h3><ol>
+<li>收集：<ul>
+<li>什么事情都可以放进你的收集箱里，只要遇到该做的事情就记录上去，记录工具不要超过五个。</li>
+</ul>
+</li>
+<li>整理：<ul>
+<li>两分钟内、</li>
+<li>等待事项、</li>
+<li>特定日程、</li>
+<li>单步骤事项、</li>
+<li>多步骤事项、</li>
+<li>某一天事项、</li>
+<li>参考资料 。</li>
+</ul>
+</li>
+<li>组织：<ul>
+<li>管理分类整理出来的东西，能办的办了。</li>
+</ul>
+</li>
+<li>检讨与回顾：<ul>
+<li>每天工作结束前回顾一次，每周检讨自己一次，gtd有没有妥善执行。</li>
+</ul>
+</li>
+<li>执行：<ul>
+<li>执行你gtd里设定好的东西；</li>
+<li>. 执行你gtd里没有，但实际你需要做的事情；</li>
+<li>整理你下一步要执行的东西，也就是重复上面四个步骤</li>
+</ul>
+</li>
+</ol>
+<h3 id="柳比歇夫时间统计法"><a href="#柳比歇夫时间统计法" class="headerlink" title="柳比歇夫时间统计法"></a>柳比歇夫时间统计法</h3><ul>
+<li>记录数据（自己在什么时间花了多少时间去做什么事情）</li>
+<li>统计分析（统计自己在某个时间花费的时间，做小结，日周月年为单位）</li>
+<li>计划决策（年度总结或月复盘，未来计划）</li>
+</ul>
+<h3 id="三只青蛙"><a href="#三只青蛙" class="headerlink" title="三只青蛙"></a>三只青蛙</h3><blockquote>
+<p>找出你一天、一周、一个月、一年、一生中最重要的三件事，他们就是你必须吃掉的“三只青蛙”。利用帕累托定律，每天划出20%的时间，集中精力，专门对付这三只青蛙。</p>
+</blockquote>
+<ul>
+<li><strong>明确你的“三只大青蛙”</strong></li>
+<li><strong>先吃掉“最大、最丑的那只青蛙”</strong></li>
+<li><strong>每天保护自己的“青蛙时间”</strong></li>
+</ul>
+<h3 id="番茄工作法-d4f711"><a href="#番茄工作法-d4f711" class="headerlink" title="番茄工作法 ^d4f711"></a>番茄工作法 ^d4f711</h3><ul>
+<li>番茄工作法有五个步骤：<ol>
+<li>决定需要先完成的任务。</li>
+<li>设定番茄工作法定时器至 n 分钟（通常为25分钟）。</li>
+<li>持续工作直至定时器提示，记下一个番茄。</li>
+<li>短暂休息3-5分钟。</li>
+<li>每四个番茄，休息15-30分。</li>
+</ol>
+</li>
+</ul>
+<h3 id="四象限"><a href="#四象限" class="headerlink" title="四象限"></a>四象限</h3><p><img src="/%E5%9B%BE%E7%89%87/img_6.png" alt="img.png"></p>
+<h1 id="补充"><a href="#补充" class="headerlink" title="补充"></a>补充</h1><ul>
+<li>关键在于执行</li>
+</ul>
+]]></content>
+      <categories>
+        <category>效率</category>
+      </categories>
+      <tags>
+        <tag>时间管理</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>常用等价无穷小以及证明</title>
+    <url>/2023/11/07/06-%E5%B8%B8%E7%94%A8%E7%AD%89%E4%BB%B7%E6%97%A0%E7%A9%B7%E5%B0%8F%E4%BB%A5%E5%8F%8A%E8%AF%81%E6%98%8E/</url>
+    <content><![CDATA[<h1 id="常用等价无穷小"><a href="#常用等价无穷小" class="headerlink" title="常用等价无穷小"></a>常用等价无穷小</h1><p><img src="/img.png" alt="img.png"></p>
+<h1 id="证明过程（不涉及超纲知识）"><a href="#证明过程（不涉及超纲知识）" class="headerlink" title="证明过程（不涉及超纲知识）"></a>证明过程（不涉及超纲知识）</h1><h2 id=""><a href="#" class="headerlink" title=""></a><img src="/img_1.png" alt="img_1.png"></h2><h2 id="-1"><a href="#-1" class="headerlink" title=""></a><img src="/img_2.png" alt="img_2.png"></h2><h2 id="-2"><a href="#-2" class="headerlink" title=""></a><img src="/img_3.png" alt="img_3.png"></h2><ul>
+<li>补充：红星常用</li>
+</ul>
+]]></content>
+      <categories>
+        <category>大学数学</category>
+      </categories>
+      <tags>
+        <tag>高数</tag>
+        <tag>二级结论</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>关于obsidian使用图床</title>
+    <url>/2023/11/08/02.%E5%85%B3%E4%BA%8Eobsidian%E4%BD%BF%E7%94%A8%E5%9B%BE%E5%BA%8A/</url>
+    <content><![CDATA[<h2 id="创建步骤"><a href="#创建步骤" class="headerlink" title="创建步骤"></a>创建步骤</h2><ul>
+<li>注册腾讯云</li>
+<li>利用对象存储（cos功能）创立一个存储桶</li>
+<li>配置Picgo软件</li>
+<li>在obsidian中安装插件 Image auto upload Plugin</li>
+<li>具体步骤参见： <a href="https://www.bilibili.com/video/BV1pB4y1n7gM/?spm_id_from=333.999.0.0&vd_source=c54e1b21828079b2c8108a17e375150b">【 Obsidian绝配！】为你的Ob搭建专属图床，保姆级教程！再也不用担心图片管理了！</a></li>
+</ul>
+<h2 id="使用步骤"><a href="#使用步骤" class="headerlink" title="使用步骤"></a>使用步骤</h2><ul>
+<li>方法一：用windows 快捷键截屏（win+shift+s），截完之后直接 CTRL+V 粘贴图片即可上传</li>
+<li>方法二：将文件夹中存放的图片移到obsidian之中即可完成上传</li>
+</ul>
+<h2 id="结果"><a href="#结果" class="headerlink" title="结果"></a>结果</h2><ul>
+<li>图片会以链接的方式呈现在obsidian之中</li>
+<li>图片保存在腾讯云的存储桶文件夹sandox的pic之中</li>
+</ul>
+]]></content>
+      <categories>
+        <category>知识管理</category>
+      </categories>
+      <tags>
+        <tag>obsidian</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>uTools——一款好用的效率软件</title>
+    <url>/2023/11/07/05-uTools%E2%80%94%E2%80%94%E4%B8%80%E6%AC%BE%E5%A5%BD%E7%94%A8%E7%9A%84%E6%95%88%E7%8E%87%E8%BD%AF%E4%BB%B6/</url>
+    <content><![CDATA[<h2 id="登录"><a href="#登录" class="headerlink" title="登录"></a>登录</h2><ul>
+<li>可选择登录设置头像，昵称</li>
+<li>在登陆后可以购买vip以实现多台设备uTools插件的同步</li>
+<li>可不登录，在一台电脑内正常使用</li>
+</ul>
+<h2 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h2><ul>
+<li><strong>快捷键</strong>：<ul>
+<li>alt+space：召唤uTools</li>
+<li>ctrl+D：分离窗口快捷键</li>
+<li>超级面板：长按右键</li>
+<li>召唤翻译界面：双击ctrl</li>
+</ul>
+</li>
+<li><strong>召唤应用</strong>：直接输入应用名称</li>
+<li><strong>启动系统级别的命令</strong>：<ol>
+<li>卸载软件：直接输入卸载</li>
+<li>windows cmd：直接输入打开</li>
+<li>windows power shell：直接输入打开</li>
+</ol>
+</li>
+<li><strong>快速搜索文件</strong>：输入find，再输入文件名</li>
+<li><strong>备忘快贴</strong>：<ol>
+<li>直接输入建立备忘</li>
+<li>搜索备忘进行查找</li>
+</ol>
+</li>
+<li><strong>翻译单词以及外文的段落</strong>：<ol>
+<li>方法一：针对选中的语段，单词在超级面板中翻译。左击鼠标键拉取选中，在长按右键即可。但每天有次数限制</li>
+<li>方法二：在方法一的操作下，再超级面版中再点翻译即可。无使用次数限制。</li>
+<li>方法三：双击ctrl，召唤翻译界面</li>
+</ol>
+</li>
+<li><strong>ocr 识别</strong>：<br>使用超级面版，选中截图并自动识别提取</li>
+<li><strong>网页快开功能</strong>：<ol>
+<li>输入网页快开设置，在里面了解快捷键，或者自定义</li>
+<li>输入应用名称，再在该应用中搜索，如：百度，哔哩哔哩，google</li>
+</ol>
+</li>
+<li><strong>插件市场</strong>：根据自己的需求使用</li>
+</ul>
+<h2 id="学习网址"><a href="#学习网址" class="headerlink" title="学习网址"></a><a href="https://www.bilibili.com/video/BV1cS4y1r73p/?spm_id_from=333.999.0.0&vd_source=c54e1b21828079b2c8108a17e375150b">学习网址</a></h2><h2 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h2><p><img src="/%E5%9B%BE%E7%89%87/img_07.png" alt="img.png"></p>
+]]></content>
+      <categories>
+        <category>效率</category>
+      </categories>
+      <tags>
+        <tag>软件</tag>
+        <tag>效率</tag>
       </tags>
   </entry>
 </search>
