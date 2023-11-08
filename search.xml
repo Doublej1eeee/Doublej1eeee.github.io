@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>关于GPT的基本技巧</title>
-    <url>/2023/11/07/01.GPT%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/</url>
+    <url>/2023/11/08/01.GPT%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/</url>
     <content><![CDATA[<h1 id="GPT教程"><a href="#GPT教程" class="headerlink" title="GPT教程"></a><a href="https://k5ms77k0o1.feishu.cn/wiki/wikcnJyI9wsyjyBc8xiDgv0cY8b">GPT教程</a></h1><h2 id="使用前准备"><a href="#使用前准备" class="headerlink" title="使用前准备"></a>使用前准备</h2><ul>
 <li>准备梯子，如<a href="https://glados.space/">GlaDos</a></li>
 <li>注册<a href="https://cloud.tencent.com/developer/article/2190154">OPEN AI</a>（使用<a href="https://blog.csdn.net/qq_59144320/article/details/130406437">sms-activate</a>）</li>
@@ -19,7 +19,7 @@
 <li>tutory 学习导师</li>
 <li>speak 语言学习</li>
 </ul>
-<h2 id="使用（搜索力，提问力，批判力，结构力，创新力）"><a href="#使用（搜索力，提问力，批判力，结构力，创新力）" class="headerlink" title="使用（搜索力，提问力，批判力，结构力，创新力）"></a>使用（搜索力，提问力，批判力，结构力，创新力）</h2><p><img src="/source/_posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/img.png" alt="image.png"></p>
+<h2 id="使用（搜索力，提问力，批判力，结构力，创新力）"><a href="#使用（搜索力，提问力，批判力，结构力，创新力）" class="headerlink" title="使用（搜索力，提问力，批判力，结构力，创新力）"></a>使用（搜索力，提问力，批判力，结构力，创新力）</h2><img src="/2023/11/08/01.GPT%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/img.png" class="" title="This is an image description">
 <h3 id="提示词框架（问法纲要）"><a href="#提示词框架（问法纲要）" class="headerlink" title="提示词框架（问法纲要）"></a>提示词框架（问法纲要）</h3><ul>
 <li>背景&#x2F;规定情境：上下文信息</li>
 <li>角色详细设定：<ul>
@@ -35,7 +35,7 @@
 </li>
 <li>行动任务：具体执行什么任务</li>
 <li>输出关键结果：也就是输出的具体内容是什么以及格式</li>
-<li>辅助选项:其他个人要求，如结构化信息，限制信息，<br><img src="/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/img_1.png" alt="img_1.png"></li>
+<li>辅助选项:其他个人要求，如结构化信息，限制信息，<img src="/2023/11/08/01.GPT%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/img_1.png" class="" title="This is an image description"></li>
 <li><h3 id="Tips："><a href="#Tips：" class="headerlink" title="Tips："></a><strong>Tips</strong>：</h3><ul>
 <li>用<strong>分隔符</strong>，比如&#96;&#96;&#96;，”””,&lt;&gt;,,:<ul>
 <li>使用了这些定界符，以使模型非常清楚地了解它应该总结哪些确切的文本</li>
@@ -105,11 +105,11 @@
 </li>
 </ul>
 <hr>
-<h3 id="提问纲要"><a href="#提问纲要" class="headerlink" title="提问纲要"></a>提问纲要</h3><p><img src="/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/img_2.png" alt="img_2.png"></p>
+<h3 id="提问纲要"><a href="#提问纲要" class="headerlink" title="提问纲要"></a>提问纲要</h3><img src="/2023/11/08/01.GPT%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/img_2.png" class="" title="This is an image description">
 <h3 id="提问前提（复杂问题：why-how"><a href="#提问前提（复杂问题：why-how" class="headerlink" title="提问前提（复杂问题：why,how)"></a>提问前提（复杂问题：why,how)</h3><ul>
 <li><strong>why</strong>：GPT基于事实进行推理</li>
 <li><strong>how</strong>：将问题逐步清晰化，带有具体目标目的，再问实现目标的路径，最后问具体的方法</li>
-<li>关于交流：<br><img src="/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/img_3.png" alt="img_3.png"></li>
+<li>关于交流：<img src="/2023/11/08/01.GPT%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/img_3.png" class="" title="This is an image description"></li>
 </ul>
 <h3 id="元问题"><a href="#元问题" class="headerlink" title="元问题"></a>元问题</h3><ul>
 <li>象限一：<ol>
@@ -153,8 +153,7 @@
 </ul>
 <h4 id="重点"><a href="#重点" class="headerlink" title="重点!!!"></a>重点!!!</h4><ul>
 <li><p>达克效应</p>
-</li>
-<li><p><img src="/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/img_4.png" alt="img_4.png"></p>
+<img src="/2023/11/08/01.GPT%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/img_4.png" class="" title="This is an image description">
 </li>
 <li><p><strong>反向提问</strong>:</p>
 <ol>
@@ -229,7 +228,7 @@
   </entry>
   <entry>
     <title>关于obsidian使用图床</title>
-    <url>/2023/11/08/02.%E5%85%B3%E4%BA%8Eobsidian%E4%BD%BF%E7%94%A8%E5%9B%BE%E5%BA%8A/</url>
+    <url>/2023/11/06/02.%E5%85%B3%E4%BA%8Eobsidian%E4%BD%BF%E7%94%A8%E5%9B%BE%E5%BA%8A/</url>
     <content><![CDATA[<h2 id="创建步骤"><a href="#创建步骤" class="headerlink" title="创建步骤"></a>创建步骤</h2><ul>
 <li>注册腾讯云</li>
 <li>利用对象存储（cos功能）创立一个存储桶</li>
@@ -255,12 +254,12 @@
   </entry>
   <entry>
     <title>职场狼人杀</title>
-    <url>/2023/11/06/03.%E8%81%8C%E5%9C%BA%E7%8B%BC%E4%BA%BA%E6%9D%80/</url>
+    <url>/2023/11/07/03.%E8%81%8C%E5%9C%BA%E7%8B%BC%E4%BA%BA%E6%9D%80/</url>
     <content><![CDATA[<h1 id="简历呈现"><a href="#简历呈现" class="headerlink" title="简历呈现"></a>简历呈现</h1><ul>
 <li>突出能力：写自己参与的特别的项目<ul>
 <li>流程化：显得专业</li>
 <li>精确化：真实</li>
-<li>例子<br><img src="/%E5%9B%BE%E7%89%87/img_5.png" alt="img.png"></li>
+<li>例子<img src="/2023/11/07/03.%E8%81%8C%E5%9C%BA%E7%8B%BC%E4%BA%BA%E6%9D%80/img_5.png" class="" title="image"></li>
 </ul>
 </li>
 <li>简历越精彩，面试越正常</li>
@@ -381,7 +380,8 @@
 </ol>
 </li>
 </ul>
-<h3 id="四象限"><a href="#四象限" class="headerlink" title="四象限"></a>四象限</h3><p><img src="/%E5%9B%BE%E7%89%87/img_6.png" alt="img.png"></p>
+<h3 id="四象限"><a href="#四象限" class="headerlink" title="四象限"></a>四象限</h3><img src="/2023/11/07/04.%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E6%96%B9%E6%B3%95%E4%BB%8B%E7%BB%8D/img_6.png" class="" title="image">
+
 <h1 id="补充"><a href="#补充" class="headerlink" title="补充"></a>补充</h1><ul>
 <li>关键在于执行</li>
 </ul>
@@ -436,7 +436,7 @@
 </li>
 <li><strong>插件市场</strong>：根据自己的需求使用</li>
 </ul>
-<h2 id="学习网址"><a href="#学习网址" class="headerlink" title="学习网址"></a><a href="https://www.bilibili.com/video/BV1cS4y1r73p/?spm_id_from=333.999.0.0&vd_source=c54e1b21828079b2c8108a17e375150b">学习网址</a></h2><h2 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h2><p><img src="/%E5%9B%BE%E7%89%87/img_07.png" alt="img.png"></p>
+<h2 id="学习网址"><a href="#学习网址" class="headerlink" title="学习网址"></a><a href="https://www.bilibili.com/video/BV1cS4y1r73p/?spm_id_from=333.999.0.0&vd_source=c54e1b21828079b2c8108a17e375150b">学习网址</a></h2><h2 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h2>
 ]]></content>
       <categories>
         <category>效率</category>
@@ -449,8 +449,18 @@
   <entry>
     <title>常用等价无穷小以及证明</title>
     <url>/2023/11/07/06-%E5%B8%B8%E7%94%A8%E7%AD%89%E4%BB%B7%E6%97%A0%E7%A9%B7%E5%B0%8F%E4%BB%A5%E5%8F%8A%E8%AF%81%E6%98%8E/</url>
-    <content><![CDATA[<h1 id="常用等价无穷小"><a href="#常用等价无穷小" class="headerlink" title="常用等价无穷小"></a>常用等价无穷小</h1><p><img src="/img.png" alt="img.png"></p>
-<h1 id="证明过程（不涉及超纲知识）"><a href="#证明过程（不涉及超纲知识）" class="headerlink" title="证明过程（不涉及超纲知识）"></a>证明过程（不涉及超纲知识）</h1><h2 id=""><a href="#" class="headerlink" title=""></a><img src="/img_1.png" alt="img_1.png"></h2><h2 id="-1"><a href="#-1" class="headerlink" title=""></a><img src="/img_2.png" alt="img_2.png"></h2><h2 id="-2"><a href="#-2" class="headerlink" title=""></a><img src="/img_3.png" alt="img_3.png"></h2><ul>
+    <content><![CDATA[<h1 id="常用等价无穷小"><a href="#常用等价无穷小" class="headerlink" title="常用等价无穷小"></a>常用等价无穷小</h1><img src="/2023/11/07/06-%E5%B8%B8%E7%94%A8%E7%AD%89%E4%BB%B7%E6%97%A0%E7%A9%B7%E5%B0%8F%E4%BB%A5%E5%8F%8A%E8%AF%81%E6%98%8E/img.png" class="" title="image">
+
+<h1 id="证明过程（不涉及超纲知识）"><a href="#证明过程（不涉及超纲知识）" class="headerlink" title="证明过程（不涉及超纲知识）"></a>证明过程（不涉及超纲知识）</h1><img src="/2023/11/07/06-%E5%B8%B8%E7%94%A8%E7%AD%89%E4%BB%B7%E6%97%A0%E7%A9%B7%E5%B0%8F%E4%BB%A5%E5%8F%8A%E8%AF%81%E6%98%8E/img_1.png" class="" title="image">
+
+<hr>
+<img src="/2023/11/07/06-%E5%B8%B8%E7%94%A8%E7%AD%89%E4%BB%B7%E6%97%A0%E7%A9%B7%E5%B0%8F%E4%BB%A5%E5%8F%8A%E8%AF%81%E6%98%8E/img_2.png" class="" title="image">
+
+<hr>
+<img src="/2023/11/07/06-%E5%B8%B8%E7%94%A8%E7%AD%89%E4%BB%B7%E6%97%A0%E7%A9%B7%E5%B0%8F%E4%BB%A5%E5%8F%8A%E8%AF%81%E6%98%8E/img_3.png" class="" title="image">
+
+<hr>
+<ul>
 <li>补充：红星常用</li>
 </ul>
 ]]></content>
