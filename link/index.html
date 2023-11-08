@@ -15,6 +15,8 @@
     <link rel="alternative" href="atom.xml" title="DBJ-BLOG" type="application/atom+xml"> 
     <link rel="icon" href="/img/662a282fcab422afb30f636e64cda20.jpg"> 
     
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+
     
     
     <meta name="twitter:card" content="summary"/>
@@ -28,13 +30,24 @@
     <meta property="og:type" content="object"/>
     <meta property="og:title" content="DBJ-BLOG - Day-Dreamer"/>
     <meta property="og:description" content="欢迎你的访问！,"/>
+
     
 <link rel="stylesheet" href="/css/diaspora.css">
+<link rel="stylesheet" href="/css/site.css">
+
 
     <script>window.searchDbPath = "/search.xml";</script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap" rel="stylesheet">
+
+    <!-- 点击效果 -->
+    
+        <canvas class="fireworks" style="position: fixed;left: 0;top: 0;z-index: 1; pointer-events: none;" ></canvas>
+        <script type="text/javascript" src="//cdn.bootcss.com/animejs/2.2.0/anime.min.js"></script>
+        <script type="text/javascript" src="//cdn.jsdelivr.net/gh/5MayRain/5MayRain.github.io@latest/js/fireworks.js"></script>
+    
+
 <meta name="generator" content="Hexo 7.0.0"></head>
 
 <body class="loading">
@@ -49,9 +62,150 @@
             <div class="main">
                 <div class="content">
                 
-                        <ul>
-<li>????</li>
-</ul>
+                    
+
+<!-- LINKS BLOCK -->
+
+<div id="links">
+    <style>
+
+        #links{
+            margin-top: 5rem;
+        }
+
+        .links-content{
+            margin-top:1rem;
+        }
+
+        .link-navigation::after {
+            content: " ";
+            display: block;
+            clear: both;
+        }
+
+        .card {
+            width: 300px;
+            font-size: 1rem;
+            padding: 10px 20px;
+            border-radius: 4px;
+            transition-duration: 0.15s;
+            margin-bottom: 1rem;
+            display:flex;
+        }
+        .card:nth-child(odd) {
+            float: left;
+        }
+        .card:nth-child(even) {
+            float: right;
+        }
+        .card:hover {
+            transform: scale(1.1);
+            box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.12), 0 0 6px 0 rgba(0, 0, 0, 0.04);
+        }
+        .card a {
+            border:none;
+        }
+        .card .ava {
+            width: 3rem!important;
+            height: 3rem!important;
+            margin:0!important;
+            margin-right: 1em!important;
+            border-radius:4px;
+
+        }
+        .card .card-header {
+            font-style: italic;
+            overflow: hidden;
+            width: 236px;
+        }
+        .card .card-header a {
+            font-style: normal;
+            color: #2bbc8a;
+            font-weight: bold;
+            text-decoration: none;
+        }
+        .card .card-header a:hover {
+            color: #d480aa;
+            text-decoration: none;
+        }
+        .card .card-header .info {
+            font-style:normal;
+            color:#a3a3a3;
+            font-size:14px;
+            min-width: 0;
+            text-overflow: ellipsis;
+            overflow: hidden;
+            white-space: nowrap;
+        }
+    </style>
+    <div>
+        <a>
+            我的小伙伴们！
+        </a>
+    </div>
+    <div class="links-content">
+        <div class="link-navigation">
+
+            
+
+                <div class="card">
+                    <img class="ava" src="https://enfangzhong.github.io/images/avatar.jpg" alt="avatar"/>
+                    <div class="card-header">
+                        <div>
+                            <a href="https://enfangzhong.github.io/" target="_blank"> AnFrank</a>
+                            <a href="https://enfangzhong.github.io/" target="_blank"><span class="focus-links">关注</span></a>
+                        </div>
+                        <div class="info">既可以早九晚五又可以浪迹天涯。</div>
+                    </div>
+                </div>
+
+            
+
+                <div class="card">
+                    <img class="ava" src="https://lruihao.cn/images/avatar.png" alt="avatar"/>
+                    <div class="card-header">
+                        <div>
+                            <a href="https://lruihao.cn/" target="_blank"> 博采众长</a>
+                            <a href="https://lruihao.cn/" target="_blank"><span class="focus-links">关注</span></a>
+                        </div>
+                        <div class="info">分享一些有趣程序、干货、技巧、开发教程、心情和学习记录等等。</div>
+                    </div>
+                </div>
+
+            
+
+                <div class="card">
+                    <img class="ava" src="https://cdn.jsdelivr.net/gh/yremp/resource@2.0/img/custom/head.jpg" alt="avatar"/>
+                    <div class="card-header">
+                        <div>
+                            <a href="https://yremp.live" target="_blank"> Yremp</a>
+                            <a href="https://yremp.live" target="_blank"><span class="focus-links">关注</span></a>
+                        </div>
+                        <div class="info">流年，谁给过的倾城</div>
+                    </div>
+                </div>
+
+            
+
+                <div class="card">
+                    <img class="ava" src="https://leafjame.github.io/images/beichen.png" alt="avatar"/>
+                    <div class="card-header">
+                        <div>
+                            <a href="https://leafjame.github.io" target="_blank"> Leaf&#39;s Blog</a>
+                            <a href="https://leafjame.github.io" target="_blank"><span class="focus-links">关注</span></a>
+                        </div>
+                        <div class="info">Java狮 北漂男 摄影 旅行 赚钱</div>
+                    </div>
+                </div>
+
+            
+
+        </div>
+        
+    </div>
+</div>
+
+<!-- END LINKS BLOCK -->
 
                 
                 </div>
@@ -61,6 +215,8 @@
 </div>
 
 </body>
+
+<script src="//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
 
 
 <script src="//lib.baomitu.com/jquery/1.8.3/jquery.min.js"></script>

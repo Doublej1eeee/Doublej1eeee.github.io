@@ -22,6 +22,8 @@ webpilot 搜图 新闻,">
     <link rel="alternative" href="atom.xml" title="DBJ-BLOG" type="application/atom+xml"> 
     <link rel="icon" href="/img/662a282fcab422afb30f636e64cda20.jpg"> 
     
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+
     
     
     <meta name="twitter:card" content="summary"/>
@@ -49,13 +51,24 @@ webpilot 搜图 新闻,"/>
 
 插件
 webpilot 搜图 新闻,"/>
+
     
 <link rel="stylesheet" href="/css/diaspora.css">
+<link rel="stylesheet" href="/css/site.css">
+
 
     <script>window.searchDbPath = "/search.xml";</script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap" rel="stylesheet">
+
+    <!-- 点击效果 -->
+    
+        <canvas class="fireworks" style="position: fixed;left: 0;top: 0;z-index: 1; pointer-events: none;" ></canvas>
+        <script type="text/javascript" src="//cdn.bootcss.com/animejs/2.2.0/anime.min.js"></script>
+        <script type="text/javascript" src="//cdn.jsdelivr.net/gh/5MayRain/5MayRain.github.io@latest/js/fireworks.js"></script>
+    
+
 <meta name="generator" content="Hexo 7.0.0"></head>
 
 <body class="loading">
@@ -79,16 +92,42 @@ webpilot 搜图 新闻,"/>
 </div>
 
     <div class="section">
-        <div class="article">
-    <div class='main'>
-        <h1 class="title">关于GPT的基本技巧</h1>
-        <div class="stuff">
-            <span>十一月 07, 2023</span>
-            
+        
+<!-- 帖子视图 -->
+
+    <div class="post_cover" >
+        
+            <img src="/img/gpt.jpg" />
+        
+        <div class="post_cover_mask"></div>
+        <div class="post_text">
+            <h1>关于GPT的基本技巧</h1>
+            <div>
+                <span>十一月 07, 2023</span>
+
+                
   <ul class="post-tags-list" itemprop="keywords"><li class="post-tags-list-item"><a class="post-tags-list-link" href="/tags/GPT/" rel="tag">GPT</a></li></ul>
 
 
+            </div>
         </div>
+    </div>
+
+
+
+<div class="article">
+    <div class='main'>
+
+        <!-- 帖子视图 -->
+        
+
+        <!-- 更新时间 -->
+        <div class="updated">
+            <div></div>
+            <span>该文章更新于 2023.11.07</span>
+        </div>
+
+
         <div class="content markdown">
             <h1 id="GPT教程"><a href="#GPT教程" class="headerlink" title="GPT教程"></a><a target="_blank" rel="noopener" href="https://k5ms77k0o1.feishu.cn/wiki/wikcnJyI9wsyjyBc8xiDgv0cY8b">GPT教程</a></h1><h2 id="使用前准备"><a href="#使用前准备" class="headerlink" title="使用前准备"></a>使用前准备</h2><ul>
 <li>准备梯子，如<a target="_blank" rel="noopener" href="https://glados.space/">GlaDos</a></li>
@@ -316,7 +355,7 @@ webpilot 搜图 新闻,"/>
         
         
     <div id="gitalk-container" class="comment link"
-		data-enable="false"
+		data-enable="true"
         data-ae="false"
         data-ci=""
         data-cs=""
@@ -335,6 +374,8 @@ webpilot 搜图 新闻,"/>
     </div>
 </div>
 </body>
+
+<script src="//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
 
 
 <script src="//lib.baomitu.com/jquery/1.8.3/jquery.min.js"></script>
